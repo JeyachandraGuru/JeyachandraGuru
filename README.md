@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JeyachandraGuru
-- 👀 I’m interested in Devops
-- 🌱 I’m currently learning AWS
+- 👀 I’m working as Devops Engineer
+- 🌱 I’m currently learning AWS 
 - 📫 How to reach me : mjguru1996@gmail.com
 
 <!---
